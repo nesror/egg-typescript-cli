@@ -1,0 +1,5 @@
+dependencies {
+    compile('xxx.xxx:latest.release') {
+        transitive = false
+    }
+}
